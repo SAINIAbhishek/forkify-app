@@ -6,7 +6,7 @@ opportunity to use different concepts of JS to build a beautiful application. Th
 Api: https://forkify-api.herokuapp.com/v2
 
 <hr>
-To view this application follow this <a href="https://modern_js_application.netlify.app/">link</a>.
+To view this application follow this <a href="https://modern-js-application.netlify.app/">link</a>.
 
 <hr>
 
