@@ -20,7 +20,9 @@
     "homepage": "https://github.com/SAINIAbhishek/modern_js_application#readme",
     "devDependencies": {
         "parcel": "^2.0.0-beta.1",
-        "sass": "^1.26.10"
+        "sass": "^1.26.10",
+        "@parcel/transformer-image": "^2.0.0-rc.0",
+        "@parcel/transformer-sass": "^2.0.0-rc.0"
     },
     "dependencies": {
         "core-js": "^3.6.5",
